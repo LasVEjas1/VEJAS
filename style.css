@@ -1,0 +1,60 @@
+* {
+    background-color: black;
+    color: aliceblue;
+}
+
+body {
+    margin: 0;
+}
+
+/* Add a black background color to the top navigation */
+	.navbar {
+	  background-color: #CCCCCC;
+	  overflow: hidden;
+    margin: auto;
+    width: 269.5px;
+	}
+	/* Style the links inside the navigation bar */
+	.navbar a {
+	  float: left;
+	  color: #f1f2f3;
+	  text-align: center;
+	  padding: 14px 16px;
+	  text-decoration: none;
+	  font-size: 18px;
+	}
+	/* Change the color of links on hover */
+	.navbar a:hover {
+	  background-color: #d34567;
+	  color: black;
+	}
+	/* Add a color to the active/current link */
+	.navbar a.active {
+	  background-color: #d43565;
+	  color: white;
+	}
+
+.VEJAS {
+    font-size: 120px;
+    font-family: Mango Grotesque;
+    text-align: center;
+    color: aliceblue;
+    margin: 0;
+    margin-bottom: 10px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 5px;
+}
+
+.Hi Im {
+    margin: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
+  font-family:Space Mono;
+}
+
+/*body {
+    margin: 0;
+}
